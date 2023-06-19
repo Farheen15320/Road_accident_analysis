@@ -1,0 +1,22 @@
+REQUIRENTMENT:- Client wants to create a Road Accident Dashboard for year 2021 & 2022 so that they can have insights on the below requirements.
+
+- Primary KPI :- Total casualities taken place after the accident.
+-Primary KPI:- Total casualities & percentage of total with respect to accident severity and maximum casualities by type of vehicle
+-Secondary KPI:- Total casualities with respect to vehicle type.
+-Monthly trend showing comparison of casualities for current year and previous year
+-Maximum casualities by road type
+-Distribution of total casulaitites by road surface condition
+-Relation between Casualities by Area/location & Day/Night.
+
+
+
+steps:
+
+1) Data cleaning - excel- fixed typos, checked null values, removed null values
+
+2) Data Processing - added months, year column
+
+3) Data analysis & visualization
+   creating pivot tables
+
+4) Created dynamic dashboard 
